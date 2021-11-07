@@ -18,7 +18,7 @@
   <img align="center" alt="Rafael-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafael-Java" height="45" width="85" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whitee">
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/64330066?s=400&u=f73f2d7b420c6a803face9747b0864c57f9371ae&v=4">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/ctQn24hMCOYAAAAM/flandre-clapping.gif">
 </div>
 
 
