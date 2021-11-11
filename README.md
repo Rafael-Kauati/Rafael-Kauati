@@ -7,10 +7,10 @@
 
 <div align="center">
   <a href="https://github.com/Rafael-Kauati/Rafael-Kauati">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rafael-kauati&show_icons=true&theme=architect&include_all_commits=true&count_private=true"/>
-     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Kauati&layout=compact&langs_count=7&theme=architect"/>
-
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Rafael-kauati&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-kauati&layout=compact"/>
 </div>
+
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
