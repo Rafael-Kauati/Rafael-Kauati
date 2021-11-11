@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/Rafael-Kauati/Rafael-Kauati">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Rafael-kauati&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-kauati&layout=compact"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-kauati&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
   
@@ -19,11 +19,12 @@
   <img align="center" alt="Rafael-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="50" width="50" alt="Rafael-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="50" width="50" alt="Rafael-Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="right" alt="Anime-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/ctQn24hMCOYAAAAM/flandre-clapping.gif">
+  
 </div>
 
 ##
   <div style="display: inline_block">
+    <img align="left" alt="Anime-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/ctQn24hMCOYAAAAM/flandre-clapping.gif">
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="">
   </div>
   
