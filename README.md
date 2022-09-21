@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Spring boot Api development
 - 👯 I’m looking to collaborate on web application development(back-end part)
 - 🤔 I’m looking for help with back-end
-- 📫 How to reach me: rafael@radisco.com.br
+- 📫 How to reach me: kauati.toiti@gmail.com
 
 <div align="center">
   <a href="https://github.com/Rafael-Kauati/Rafael-Kauati">
