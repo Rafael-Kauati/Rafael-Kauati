@@ -22,7 +22,7 @@
 ##
   <div style="display: inline_block">
     <img align="left" alt="Anime-pic" height="150" width="250" style="border-radius:50px;" src="https://i.pinimg.com/originals/f7/22/01/f72201273a1f6541a7059d496fc062d4.gif">
-    <img align="left" alt="Anime-pic" height="150" width="250" style="border-radius:50px;" src="https://i.pinimg.com/originals/83/57/5a/83575aafac35371808733e2be53d9fae.png">
+  
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="">
   </div>
   
