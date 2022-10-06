@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/Rafael-Kauati/Rafael-Kauati">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Rafael-kauati&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  
+  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-kauati&layout=compact&langs_count=9&theme=blue-green"/>
 </div>
 
   
