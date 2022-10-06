@@ -1,4 +1,4 @@
-### Konichiwa ^_^
+### Hello ^_^
 
 - 🌱 I’m currently learning Spring boot Api development
 - 👯 I’m looking to collaborate on web application development(back-end part)
