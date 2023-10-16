@@ -5,11 +5,14 @@
 - 🤔 I’m looking for help with back-end
 - 📫 How to reach me: kauati.toiti@gmail.com
 
+  
+
 <div align="center">
   <a href="https://github.com/Rafael-Kauati/Rafael-Kauati">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Rafael-kauati&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-kauati&layout=compact&langs_count=9&theme=blue-green"/>
 </div>
+
 
   
   <div style="display: inline_block"><br>
@@ -21,7 +24,7 @@
 
 ##
   <div style="display: inline_block">
-    <img align="left" alt="Anime-pic" height="150" width="250" style="border-radius:50px;" src="https://i.pinimg.com/originals/f7/22/01/f72201273a1f6541a7059d496fc062d4.gif">
+    <img align="left" alt="Anime-pic" height="350" width="350" style="border-radius:50px;" src="https://bxboy52.files.wordpress.com/2012/07/duke-christmas-images-gif-pictures-photos-pics-pinterest.gif">
   
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="">
   </div>
