@@ -24,7 +24,7 @@
 
 ##
   <div style="display: inline_block">
-    <img align="left" alt="Anime-pic" height="350" width="350" style="border-radius:50px;" src="https://bxboy52.files.wordpress.com/2012/07/duke-christmas-images-gif-pictures-photos-pics-pinterest.gif">
+    <img align="left" alt="Anime-pic" height="350" width="350" style="border-radius:50px;" src="https://cdn.wallpapersafari.com/89/73/6AiqaG.png">
   
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="">
   </div>
