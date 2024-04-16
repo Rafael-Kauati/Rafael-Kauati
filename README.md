@@ -28,4 +28,6 @@
   
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="">
   </div>
-  
+
+
+![Snake animation](https://github.com/Rafael-Kauati/Rafael-Kauati/blob/output/github-contribution-grid-snake.svg)
