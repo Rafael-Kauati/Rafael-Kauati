@@ -30,4 +30,4 @@
   </div>
 
 
-![Snake animation](https://github.com/Rafael-Kauati/Rafael-Kauati/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Rafael-Kauati/Rafael-Kauati/blob/main/github-contribution-grid-snake.svg)
