@@ -1,30 +1,34 @@
-### Hello ^_^
+# Greetings fellow developer
 
-- 🌱 I’m currently learning Spring boot Api development
-- 👯 I’m looking to collaborate on web application development(back-end part)
-- 🤔 I’m looking for help with back-end
+- 🌱 I’m currently working hard to become a full-stack web-developer
+- 👯 I’m specialized with web application development(back-end part)
+- 🤔 I’m looking for help with the development of dinamic web-applications, backend services, RESTful api's and even dev-ops
 - 📫 How to reach me: kauati.toiti@gmail.com
 
   
 
-<div align="center">
-  <a href="https://github.com/Rafael-Kauati/Rafael-Kauati">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Rafael-kauati&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-kauati&layout=compact&langs_count=9&theme=blue-green"/>
-</div>
-
-
+## My Tech knowledge
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="50" width="50" alt="Rafael-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="50" width="50" alt="Rafael-Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" height="50" width="110" alt="Rafael-Golang" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png" />
+   <img align="center" height="100" width="80" alt="Rafael-Golang-gin" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" />
+
+  <img align="center" height="70" width="70" alt="Rafael-Ruby" src="https://cdn.iconscout.com/icon/free/png-256/free-ruby-47-1175102.png" />
+  <img align="center" height="90" width="90" alt="Rafael-Rails" src="https://www.svgrepo.com/show/354252/rails.svg" />
+  <img align="center" height="90" width="90" alt="Rafael-react" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfxxgtvjoywpYYFjqCM2IByvFIxA6n40Wtw&s" />
+  <img align="center" height="90" width="90" alt="Rafael-Angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
+  
+  <img align="center" height="90" width="90" alt="Rafael-Docker" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_official_logo_icon_169250.png" />
+  <img align="center" height="90" width="150" alt="Rafael-Actions" src="https://miro.medium.com/v2/resize:fit:875/0*Xhd9l-Sd1Yd-diwh.png" />
+  
   
 </div>
 
 ##
   <div style="display: inline_block">
-    <img align="left" alt="Anime-pic" height="350" width="350" style="border-radius:50px;" src="https://cdn.wallpapersafari.com/89/73/6AiqaG.png">
   
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="">
   </div>
