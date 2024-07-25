@@ -14,6 +14,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafael-Django" height="50" width="50" src="https://www.svgrepo.com/show/353657/django-icon.svg">
   <img align="center" height="50" width="50" alt="Rafael-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="50" width="50" alt="Rafael-Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" height="50" width="110" alt="Rafael-Golang" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png" />
