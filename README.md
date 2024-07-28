@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with the development of dinamic web-applications, backend services, RESTful api's and even dev-ops
 - 📫 How to reach me: kauati.toiti@gmail.com
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Rafael-Kauati?cardType=github&theme=synthwave&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Rafael-Kauati?cardType=level-alternate&theme=synthwave&preferLogin=false&Ring=DD2727)](https://git.io/awesome-stats-card)
 <a href="https://github.com/Rafael-Kauati"><img align="auto" height="190vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Kauati&layout=compact&langs_count=8&theme=react&count_private=true"/></a>
 
 
