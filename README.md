@@ -16,6 +16,11 @@
   <img align="center" alt="Rafael-Django" height="50" width="50" src="https://www.svgrepo.com/show/353657/django-icon.svg">
   <img align="center" height="50" width="50" alt="Rafael-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="50" width="50" alt="Rafael-Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" height="50" width="50" alt="Rafael-JS" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
+  <img align="center" height="70" width="70" alt="Rafael-Html" src="https://www.svgrepo.com/show/303205/html-5-logo.svg" />
+  <img align="center" height="50" width="50" alt="Rafael-Css" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" />
+  <img align="center" height="50" width="50" alt="Rafael-Nodejs" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
+  <img align="center" height="50" width="90" alt="Rafael-Expressjs" src="https://e7.pngegg.com/pngimages/846/87/png-clipart-mean-solution-stack-express-js-node-js-javascript-github-text-trademark.png" />
   <img align="center" height="50" width="110" alt="Rafael-Golang" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png" />
    <img align="center" height="100" width="80" alt="Rafael-Golang-gin" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" />
 
