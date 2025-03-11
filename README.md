@@ -30,7 +30,8 @@
   <img align="center" height="90" width="90" alt="Rafael-Rails" src="https://skillicons.dev/icons?i=rails" />
   <img align="center" height="90" width="90" alt="Rafael-react" src="https://skillicons.dev/icons?i=react" />
   <img align="center" height="90" width="90" alt="Rafael-Angular" src="https://skillicons.dev/icons?i=angular" />
-  
+    <img align="center" height="90" width="90" alt="Rafael-Docker" src="https://skillicons.dev/icons?i=rabbitmq" />
+
   <img align="center" height="90" width="90" alt="Rafael-Docker" src="https://skillicons.dev/icons?i=docker" />
   <img align="center" height="90" width="150" alt="Rafael-Actions" src="https://miro.medium.com/v2/resize:fit:875/0*Xhd9l-Sd1Yd-diwh.png" />
   
